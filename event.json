@@ -1,0 +1,27 @@
+{
+  "session": {
+    "new": false,
+    "sessionId": "session1234",
+    "attributes": {},
+    "user": {
+      "userId": "usr123"
+    },
+    "application": {
+      "applicationId": "amzn1.ask.skill.b296b1d3-14c8-44e4-be21-e3d9d45b7220"
+    }
+  },
+  "version": "1.0",
+  "request": {
+    "intent": {
+      "slots": {
+        "MavicPhantom": {
+          "name": "modeloDrone",
+          "value": "Phantom 4 Pro"
+        }
+      },
+      "name": "Mavic"
+    },
+    "type": "IntentRequest",
+    "requestId": "request5678"
+  }
+}
