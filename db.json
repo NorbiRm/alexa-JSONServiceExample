@@ -1,44 +1,14 @@
 {
-  "modelos": [
-    {
-      "modelo": "Phantom 4 Advanced",
-      "descripcion": {
-        "serie": "AAAA",
-        "año": "2018",
-        "descripcion": "Sensor CMOS de 1 pulgada. Video a 4k. Fotos de 20 megapixeles. Detección de obstáculos frontal"
-      }
-    },
-    {
-      "modelo": "Phantom 4 Pro",
-      "descripcion": {
-        "serie": "AAAA",
-        "año": "2018",
-        "descripcion": "Tiempo de vuelo 30 minutos. Sensor CMOS de 1 pulgada. Video a 4k. Fotos de 20 megapixeles. Detección de obstáculos en 5 direcciones."
-      }
-    },
-    {
-      "modelo": "Mavic 2 Pro",
-      "descripcion": {
-        "serie": "AAAA",
-        "año": "2018",
-        "descripcion": "Cámara Hassselblad. Altura ajustable. Vídeo HDR 10 bits. Sensor CMOS de 1 pulgada. Video a 4k. Fotos de 20 megapixeles."
-      }
-    },
-    {
-      "modelo": "Mavic Air",
-      "descripcion": {
-        "serie": "AAAA",
-        "año": "2018",
-        "descripcion": "2 x Cámara con zoom óptico. Video FSensor CMOS de 1 pulgada. Video a 4k. Fotos de 20 megapixeles. Detección de obstáculos frontal"
-      }
-    },
-    {
-      "modelo": "Mavic Pro Platinum",
-      "descripcion": {
-        "serie": "AAAA",
-        "año": "2018",
-        "descripcion": "Tiempo de vuelo máximo de 30 minutos. Reducción de ruido de 4dB. Cámara de 4K. Fotos de 12 megapixeles"
-      }
-    }
-  ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
