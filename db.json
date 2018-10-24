@@ -1,11 +1,10 @@
-{
-  "modelos": [
+[
     {
       "modelo": "Phantom 4 Advanced",
       "descripcion": {
         "serie": "AAAA",
         "año": "2018",
-        "descripcion": "Sensor CMOS de 1 pulgada. Video a 4k. Fotos de 20 megapixeles. Detección de obstáculos frontal"
+        "descripcion": "Sensor CMOS de 1 pulgada. Video a 4k. Fotos de 20 megapixeles. Deteccion de obstaculos frontal"
       }
     },
     {
@@ -13,7 +12,7 @@
       "descripcion": {
         "serie": "AAAA",
         "año": "2018",
-        "descripcion": "Tiempo de vuelo 30 minutos. Sensor CMOS de 1 pulgada. Video a 4k. Fotos de 20 megapixeles. Detección de obstáculos en 5 direcciones."
+        "descripcion": "Tiempo de vuelo 30 minutos. Sensor CMOS de 1 pulgada. Video a 4k. Fotos de 20 megapixeles. Detección de obstaculos en 5 direcciones."
       }
     },
     {
@@ -21,7 +20,7 @@
       "descripcion": {
         "serie": "AAAA",
         "año": "2018",
-        "descripcion": "Cámara Hassselblad. Altura ajustable. Vídeo HDR 10 bits. Sensor CMOS de 1 pulgada. Video a 4k. Fotos de 20 megapixeles."
+        "descripcion": "Cámara Hassselblad. Altura ajustable. Video HDR 10 bits. Sensor CMOS de 1 pulgada. Video a 4k. Fotos de 20 megapixeles."
       }
     },
     {
@@ -41,4 +40,3 @@
       }
     }
   ]
-}
