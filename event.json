@@ -1,27 +1,77 @@
 {
+  "version": "1.0",
   "session": {
     "new": false,
-    "sessionId": "session1234",
-    "attributes": {},
-    "user": {
-      "userId": "usr123"
-    },
+    "sessionId": "amzn1.echo-api.session.40856e1a-fa7c-4a79-8e74-b0fa1307d417",
     "application": {
       "applicationId": "amzn1.ask.skill.b296b1d3-14c8-44e4-be21-e3d9d45b7220"
+    },
+    "user": {
+      "userId": "amzn1.ask.account.AGAE7SHS2YOWYA5I4E456RNSUGEQCYDEVCNOKVFL6IOJOBWN6ZL64DBGUGOV4ED3SRJFWVNGSNZJ2A5E4ZULORH3BYAHUCW6B5Z7TFWC2TJYREVAQ3CY4T7SV2UYKM2KWZK7KAEN4U5LIQKAUT6CEOSG26QHTHNWZQYBI3RC3MRPQN6L5HM26DHR7XNEFLCJPVI4QCYNM4CW75A"
     }
   },
-  "version": "1.0",
-  "request": {
-    "intent": {
-      "slots": {
-        "MavicPhantom": {
-          "name": "modeloDrone",
-          "value": "Phantom 4 Pro"
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    },
+    "Display": {
+      "token": ""
+    },
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.b296b1d3-14c8-44e4-be21-e3d9d45b7220"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.AGAE7SHS2YOWYA5I4E456RNSUGEQCYDEVCNOKVFL6IOJOBWN6ZL64DBGUGOV4ED3SRJFWVNGSNZJ2A5E4ZULORH3BYAHUCW6B5Z7TFWC2TJYREVAQ3CY4T7SV2UYKM2KWZK7KAEN4U5LIQKAUT6CEOSG26QHTHNWZQYBI3RC3MRPQN6L5HM26DHR7XNEFLCJPVI4QCYNM4CW75A"
+      },
+      "device": {
+        "deviceId": "amzn1.ask.device.AHAU5T2YI64P6DZ4TXKXGQLBEFLWCHZ3BYPDP4TL4Y3CFFDN2RNHLRMVLYM4JMIWDU2TMFL3EL46DHVAPVO2TMSDJP24D6PDL5BH3AREYEKWBVG6SNVQSZCUUV7HDC2P42G5HKX2YOU6M4XJGG7GOEBPISKBAEIUDNK6BCBYSM5MH2XLK3EIM",
+        "supportedInterfaces": {
+          "AudioPlayer": {},
+          "Display": {
+            "templateVersion": "1.0",
+            "markupVersion": "1.0"
+          }
         }
       },
-      "name": "Mavic"
-    },
+      "apiEndpoint": "https://api.amazonalexa.com",
+      "apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLmIyOTZiMWQzLTE0YzgtNDRlNC1iZTIxLWUzZDlkNDViNzIyMCIsImV4cCI6MTU0MDU3NDQwNCwiaWF0IjoxNTQwNTcwODA0LCJuYmYiOjE1NDA1NzA4MDQsInByaXZhdGVDbGFpbXMiOnsiY29uc2VudFRva2VuIjpudWxsLCJkZXZpY2VJZCI6ImFtem4xLmFzay5kZXZpY2UuQUhBVTVUMllJNjRQNkRaNFRYS1hHUUxCRUZMV0NIWjNCWVBEUDRUTDRZM0NGRkROMlJOSExSTVZMWU00Sk1JV0RVMlRNRkwzRUw0NkRIVkFQVk8yVE1TREpQMjRENlBETDVCSDNBUkVZRUtXQlZHNlNOVlFTWkNVVVY3SERDMlA0Mkc1SEtYMllPVTZNNFhKR0c3R09FQlBJU0tCQUVJVUROSzZCQ0JZU001TUgyWExLM0VJTSIsInVzZXJJZCI6ImFtem4xLmFzay5hY2NvdW50LkFHQUU3U0hTMllPV1lBNUk0RTQ1NlJOU1VHRVFDWURFVkNOT0tWRkw2SU9KT0JXTjZaTDY0REJHVUdPVjRFRDNTUkpGV1ZOR1NOWkoyQTVFNFpVTE9SSDNCWUFIVUNXNkI1WjdURldDMlRKWVJFVkFRM0NZNFQ3U1YyVVlLTTJLV1pLN0tBRU40VTVMSVFLQVVUNkNFT1NHMjZRSFRITldaUVlCSTNSQzNNUlBRTjZMNUhNMjZESFI3WE5FRkxDSlBWSTRRQ1lOTTRDVzc1QSJ9fQ.evIWR9Pyuvt5vbtGb4mZVTAuWQjhR2mj9vHYhmyIR0EIcCg836TofVfyu7Muh_ltQzEFczLoFnRQp9F89tQNymviaaAg3WLPBrh_VoDI_5MAUPp3vUNRjns0J25RoPFDi4aIygmctFKxHSYSMwop37NrLSqT2iMqOayQkztpyCkQrPcdr1zKf4po0d1gmu288exptUu50cAMs93Awcc62T95RJxvX6wEQKmbaTcZZZazeteZKvj7u-H_PDZw_bhImwpZqV3iX4oWsJ93prDQBh9pxdJ_N8cbpYFSRqzIwnnfgCCRAZWoaFwcQ6ycWQDo_R7-FEgPPGQ2snrJvYztlg"
+    }
+  },
+  "request": {
     "type": "IntentRequest",
-    "requestId": "request5678"
+    "requestId": "amzn1.echo-api.request.b00c5cbe-bf53-4626-a003-d15de27f214d",
+    "timestamp": "2018-10-26T16:20:04Z",
+    "locale": "en-US",
+    "intent": {
+      "name": "DescriptionIntent",
+      "confirmationStatus": "NONE",
+      "slots": {
+        "model": {
+          "name": "model",
+          "value": "phantom 4 pro",
+          "resolutions": {
+            "resolutionsPerAuthority": [
+              {
+                "authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.b296b1d3-14c8-44e4-be21-e3d9d45b7220.models",
+                "status": {
+                  "code": "ER_SUCCESS_MATCH"
+                },
+                "values": [
+                  {
+                    "value": {
+                      "name": "Phantom 4 Pro",
+                      "id": "574ee0ebf3afd08eba363f6955737222"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "confirmationStatus": "NONE",
+          "source": "USER"
+        }
+      }
+    }
   }
 }

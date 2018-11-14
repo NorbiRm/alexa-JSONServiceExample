@@ -51,7 +51,7 @@
       }
     },
     {
-      "modelo": "Phantom 4 Pro",
+      "model": "Phantom 4 Pro",
       "specs": {
         "series": "AAAA",
         "year": "2018",
@@ -71,7 +71,7 @@
       "specs": {
         "series": "AAAA",
         "year": "2018",
-        "descritcion": "32megapixeles shpere panoramas. Foldable and portable. 3-axis gmbal and 4k camera. 3 directional environment sensing. SmartCapture. 21 mnuto flight time."
+        "description": "32megapixeles shpere panoramas. Foldable and portable. 3-axis gmbal and 4k camera. 3 directional environment sensing. SmartCapture. 21 mnuto flight time."
       }
     },
     {
