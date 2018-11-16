@@ -52,7 +52,7 @@
       "specs": {
         "flight time": "30 min maximum",
         "sensor": "1 inch <say-as interpret-as='characters'>CMOS</say-as>",
-        "camera": "20 megapixeles",
+        "camera": "a 20 megapixeles camera",
         "description": "1inch <say-as interpret-as='characters'>CMOS</say-as> Sensor.V 4K Video resolution. 20 megapixeles photos. 30 min Flight Time. Front Obstacle Sensing."
       }
     },
@@ -61,7 +61,7 @@
       "specs": {
         "flight time": "30 min maximum",
         "sensor": "1 inch <say-as interpret-as='characters'>CMOS</say-as>",
-        "camera": "20 megapixeles",
+        "camera": "a 20 megapixeles camera",
         "description": "30 min Flight Time. 1inch 20megapixeles CMOS sensor. Obstacle sensing in Five Directions."
       }
     },
@@ -70,7 +70,7 @@
       "specs": {
         "flight time": "31 minutes maximum",
         "sensor": "1 inch <say-as interpret-as='characters'>CMOS</say-as>",
-        "camera": "Hassselblad camera, 20 megapixeles",
+        "camera": "a Hassselblad camera of 20 megapixeles",
         "description": "Hassselblad camera. Adjustable aperture. Camera of 20megapixeles. 1inch CMOS Sensor. 10-bit Dlog-M colour profile. 8km 1080pixels Video Transmission. 31min flight time."
       }
     },
@@ -79,7 +79,7 @@
       "specs": {
         "flight time": "21 minutes maximum",
         "sensor": "1 inch <say-as interpret-as='characters'>CMOS</say-as>",
-        "camera": "4k camera",
+        "camera": "a 4k camera",
         "description": "32megapixeles shpere panoramas. Foldable and portable. 3-axis gmbal and 4k camera. 3 directional environment sensing. SmartCapture. 21 mnuto flight time."
       }
     },
@@ -88,7 +88,7 @@
       "specs": {
         "flight time": "30 min maximum",
         "sensor": "1 inch <say-as interpret-as='characters'>CMOS</say-as>",
-        "camera": "12 megapixeles",
+        "camera": "a 12 megapixeles camera",
         "description": "30 minutes max flight time. 4 db noise reduction. 4k camera. 12megapixeles photos."
       }
     }
