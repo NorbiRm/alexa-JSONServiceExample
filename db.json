@@ -1,96 +1,33 @@
 {
-  "modelos":[
-    {
-      "modelo": "Phantom 4 Advanced",
-      "especs": {
-        "tiempo de vuelo": "máximo 30 minutos",
-        "sensor": "<lang xml:lang='en-US'><say-as interpret-as='characters'>CMOS</say-as></lang> de una pulgada",
-        "camara": "20 megapixeles",
-        "descripcion": "Cuenta con un sensor <lang xml:lang='en-US'><say-as interpret-as='characters'>CMOS</say-as></lang> de 1 pulgada. Formato de video a 4k. Resolución de fotos de 20 megapixeles. Capacidad de deteccion de obstaculos frontales"
-      }
-    },
-    {
-      "modelo": "Phantom 4 Pro",
-      "descripcion": {
-        "tiempo de vuelo": "máximo 30 minutos",
-        "sensor": "<lang xml:lang='en-US'><say-as interpret-as='characters'>CMOS</say-as></lang> de una pulgada",
-        "camara": "20 megapixeles",
-        "descripcion": "Cuenta con un tiempo de vuelo de 30 minutos máximo. Un Sensor CMOS de 1 pulgada. Video a 4k. Resolución de fotos de 20 megapixeles. Capaz de detectar obstaculos en 5 direcciones."
-      }
-    },
-    {
-      "modelo": "Mavic 2 Pro",
-      "descripcion": {
-        "tiempo de vuelo": "máximo 31 minutos",
-        "sensor": "<lang xml:lang='en-US'><say-as interpret-as='characters'>CMOS</say-as></lang> de una pulgada",
-        "camara": "20 megapixeles",
-        "descripcion": "Cámara Hassselblad. Altura ajustable. Video HDR 10 bits. Sensor CMOS de 1 pulgada. Video a 4k. Fotos de 20 megapixeles."
-      }
-    },
-    {
-      "modelo": "Mavic Air",
-      "descripcion": {
-        "tiempo de vuelo": "máximo 21 minutos",
-        "sensor": "Video FSensor<lang xml:lang='en-US'><say-as interpret-as='characters'>CMOS</say-as></lang> de una pulgada",
-        "camara": "20 megapixeles",
-        "descripcion": "Cuenta con <say-as interpret-as='characters'>2x</say-as> Cámara con zoom óptico. Formato de video FSensor <lang xml:lang='en-US'><say-as interpret-as='characters'>CMOS</say-as></lang> de 1 pulgada. Formato de video a 4k. Resolución de fotos de 20 megapixeles. Detección de obstáculos frontal"
-      }
-    },
-    {
-      "modelo": "Mavic Pro Platinum",
-      "descripcion": {
-        "tiempo de vuelo": "máximo 30 minutos",
-        "sensor": "Video FSensor<lang xml:lang='en-US'><say-as interpret-as='characters'>CMOS</say-as></lang> de una pulgada",
-        "camara": "12 megapixeles",
-        "descripcion": "Tiene un tiempo de vuelo máximo de 30 minutos. Cuenta con un sistema de reducción de ruido de 4dB. Formato de cámara de 4K. Resolución de fotos de 12 megapixeles"
-      }
-    }
-  ],
-  "models": [
-    {
-      "model": "Phantom 4 Advanced",
-      "specs": {
-        "flight time": "30 min maximum",
-        "sensor": "1 inch <say-as interpret-as='characters'>CMOS</say-as>",
-        "camera": "a 20 megapixeles camera",
-        "description": "1inch <say-as interpret-as='characters'>CMOS</say-as> Sensor.V 4K Video resolution. 20 megapixeles photos. 30 min Flight Time. Front Obstacle Sensing."
-      }
-    },
-    {
-      "model": "Phantom 4 Pro",
-      "specs": {
-        "flight time": "30 min maximum",
-        "sensor": "1 inch <say-as interpret-as='characters'>CMOS</say-as>",
-        "camera": "a 20 megapixeles camera",
-        "description": "30 min Flight Time. 1inch 20megapixeles CMOS sensor. Obstacle sensing in Five Directions."
-      }
-    },
-    {
-      "model": "Mavic 2 Pro",
-      "specs": {
-        "flight time": "31 minutes maximum",
-        "sensor": "1 inch <say-as interpret-as='characters'>CMOS</say-as>",
-        "camera": "a Hassselblad camera of 20 megapixeles",
-        "description": "Hassselblad camera. Adjustable aperture. Camera of 20megapixeles. 1inch CMOS Sensor. 10-bit Dlog-M colour profile. 8km 1080pixels Video Transmission. 31min flight time."
-      }
-    },
-    {
-      "model": "Mavic Air",
-      "specs": {
-        "flight time": "21 minutes maximum",
-        "sensor": "1 inch <say-as interpret-as='characters'>CMOS</say-as>",
-        "camera": "a 4k camera",
-        "description": "32megapixeles shpere panoramas. Foldable and portable. 3-axis gmbal and 4k camera. 3 directional environment sensing. SmartCapture. 21 mnuto flight time."
-      }
-    },
-    {
-      "model": "Mavic Pro Platinum",
-      "specs": {
-        "flight time": "30 min maximum",
-        "sensor": "1 inch <say-as interpret-as='characters'>CMOS</say-as>",
-        "camera": "a 12 megapixeles camera",
-        "description": "30 minutes max flight time. 4 db noise reduction. 4k camera. 12megapixeles photos."
-      }
-    }
-  ]
+    "botellas":[
+        {
+            "marca":"Rancho Escondido",
+            "submarca":"Rancho Escondido",
+            "fotografia":"img/ranchoEscondido.jpg",
+            "clasificacion":"100% Destilado de Agave",
+            "numeroDeEtiqueta":"0123456789"
+        },
+        {
+            "marca":"Jose Cuervo",
+            "submarca":"Plata",
+            "fotografia":"img/josecuervoplata.jpg",
+            "clasificacion":"Tequila Blanco",
+            "numeroDeEtiqueta":"75891138"
+        },
+        {
+            "marca":"Herradura",
+            "submarca":"Antiguo",
+            "fotografia":"img/herraduraantiguo.jpg",
+            "clasificacion":"Reposado",
+            "numeroDeEtiqueta":"A2S4D8FYT"
+        },
+        {
+            "marca":"Patron",
+            "submarca":"Añejo",
+            "fotografia":"img/patron.jpg",
+            "clasificacion":"Añejo",
+            "numeroDeEtiqueta":"UR3RT8Y41F"
+        }
+
+    ]
 }
